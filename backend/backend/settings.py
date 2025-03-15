@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'course_app',
     'attendance_app',
     'rest_framework',
-    'home_app'
+    'auth_app'
 ]
 
 MIDDLEWARE = [
